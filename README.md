@@ -14,7 +14,7 @@
 <picture> <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZoa2E3aWNoZ2lnN2QxZWEzYmYwbXN1bmVmZjU3djBub2Fyem5ucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width = 210px></picture>
 
 - :school: Soy un `estudiante de primer año de carrera`, apasionado por la programación.
-- :trophy: Logré hacer mis primeros `Sistemas Operativos Windows` modificado `W10/W11`.
+- :trophy: Logré hacer mis primeros `Sistemas Operativos Windows` modificados `W10/W11`.
 - :technologist: **Actualmente explorando** `Desarrollo Web` **y** `Aprendizaje Automático`.
 - :email: No dudes en **contactarme**  [![Envíame un correo](https://img.shields.io/static/v1?label=email&amp;message=Xuciv&amp;color=EA4335&amp;style=flat-square)](mailto:santigarram17@icloud.com)
 - :nerd_face: Siempre creo que `"Eres lo que amas"`
