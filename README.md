@@ -11,7 +11,7 @@
 <!--Sobre mí-->
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre mí
 
-<picture> <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZoa2E3aWNoZ2lnN2QxZWEzYmYwbXN1bmVmZjU3djBub2Fyem5ucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width = 300px></picture>
+<picture> <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZoa2E3aWNoZ2lnN2QxZWEzYmYwbXN1bmVmZjU3djBub2Fyem5ucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width = 250px></picture>
 
 - :school: Soy un `estudiante de primer año de carrera`, apasionado por la programación.
 - :trophy: Logré hacer mis primeros `Sistemas Operativos Windows` modificado `W10/W11`.
