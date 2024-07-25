@@ -68,7 +68,7 @@
 
 ### <picture> <img src = "https://github.com/dxuciv/dxuciv/blob/main/Images/OS.gif?raw=true" width = 20px></picture> Sistemas Operativos
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macOS&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=KaliLinux&logoColor=white)
