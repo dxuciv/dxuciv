@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block">Hola👋, soy Xuciv</h1></summary>
+    <summary><h1 style="display: inline-block">Hola👋, soy Santiago</h1></summary>
   </ul>
 </div>
 
@@ -14,7 +14,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 - :school: Soy un `estudiante de secundaria` apasionado por la programación.
-- :trophy: Terminé mi carrera de `Concurso Nacional de Programación 2023` **y** gané el `1er lugar` en el hackathon de la escuela.
+- :trophy: Logre hacer mi primer `Sistema Operativo Windows` modificado `W10/W11`.
 - :technologist: **Actualmente explorando** `Desarrollo Web` **y** `Aprendizaje Automático`.
 - :email: No dudes en **contactarme**  [![Envíame un correo](https://img.shields.io/static/v1?label=email&amp;message=Xuciv&amp;color=EA4335&amp;style=flat-square)](mailto:santigarram17@icloud.com)
 - :nerd_face: Siempre creo que `"Eres lo que amas"`
