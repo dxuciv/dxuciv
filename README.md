@@ -23,7 +23,7 @@
 
 ## 🛠️ Mis habilidades
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px></picture> Lenguajes de programación
+### <picture> <img src = "https://github.com/dxuciv/dxuciv/blob/main/Images/Programming_Languages.gif" width = 20px></picture> Lenguajes de programación
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
