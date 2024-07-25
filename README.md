@@ -104,4 +104,4 @@
 
 [Xuciv](https://github.com/dxuciv)
 
-Última edición: 10/7/2023
+Última edición: 24/7/2024
