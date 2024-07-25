@@ -9,7 +9,7 @@
 </div>
 
 <!--Sobre mí-->
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre mí
+## <picture><img src = "https://github.com/dxuciv/dxuciv/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre mí
 
 <picture> <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZoa2E3aWNoZ2lnN2QxZWEzYmYwbXN1bmVmZjU3djBub2Fyem5ucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width = 210px></picture>
 
@@ -26,14 +26,14 @@
 ### <picture> <img src = "https://github.com/dxuciv/dxuciv/blob/main/Images/Programming_Languages.gif" width = 20px></picture> Lenguajes de programación
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-2300599?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-FFD500?style=for-the-badge&logo=Shell&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px></picture> Desarrollo Frontend
+### <picture> <img src = "https://github.com/dxuciv/dxuciv/blob/main/Images/Front_End.gif?raw=true" width = 20px></picture> Desarrollo Frontend
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -41,14 +41,14 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px></picture> Análisis de Datos
+### <picture> <img src = "https://github.com/dxuciv/dxuciv/blob/main/Images/CP_PS.gif?raw=true" width = 20px></picture> Análisis de Datos
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![ApacheSpark](https://img.shields.io/badge/ApacheSpark-E25A1C?style=for-the-badge&logo=ApacheSpark&logoColor=white)
 ![ApacheHadoop](https://img.shields.io/badge/ApacheHadoop-66CCFF?style=for-the-badge&logo=ApacheHadoop&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white)
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px></picture> Software y Herramientas
+### <picture> <img src = "https://github.com/dxuciv/dxuciv/blob/main/Images/Software_Tools.gif?raw=true" width = 20px></picture> Software y Herramientas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
@@ -56,12 +56,12 @@
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white)
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=OpenSSL&logoColor=white)
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px></picture> IDEs
+### <picture> <img src = "https://github.com/dxuciv/dxuciv/blob/main/Images/IDEs.gif?raw=true" width = 20px></picture> IDEs
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px></picture> Sistemas Operativos
+### <picture> <img src = "https://github.com/dxuciv/dxuciv/blob/main/Images/OS.gif?raw=true" width = 20px></picture> Sistemas Operativos
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macOS&logoColor=white)
