@@ -70,7 +70,7 @@
 
 <br>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px></picture> Estadísticas de Github
+## <picture><img src = "https://github.com/dxuciv/dxuciv/blob/main/Images/Statistics.gif?raw=true" width = 30px></picture> Estadísticas de Github
 
 <!--- stats & Trophy (start) -->
 <p align="left">
