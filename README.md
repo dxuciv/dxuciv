@@ -17,7 +17,7 @@
 - :trophy: Logré hacer mis primeros `Sistemas Operativos Windows` modificados `W10/W11`.
 - :technologist: **Actualmente explorando** `Desarrollo Web` **y** `Aprendizaje Automático`.
 - :email: No dudes en **contactarme**  [![Envíame un correo](https://img.shields.io/static/v1?label=email&amp;message=Xuciv&amp;color=EA4335&amp;style=flat-square)](mailto:santigarram17@icloud.com)
-- :nerd_face: Siempre creo que `"Eres lo que amas"`
+- :nerd_face: Transformo ideas en soluciones innovadoras, `"un código a la vez"`.
 
 <br>
 
