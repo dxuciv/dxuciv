@@ -25,7 +25,7 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px></picture> Lenguajes de programación
 
-![C#](https://img.shields.io/badge/C#-2665AB?style=flat-square&logo=C&logoColor=white)
+![C#](https://img.shields.io/badge/C#-1572B6?style=flat-square&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-0B325DC?style=flat-square&logo=C&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=Shell&logoColor=white)
