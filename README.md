@@ -68,6 +68,12 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 ![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
 
+### <picture> <img src = "https://github.com/dxuciv/dxuciv/blob/main/Images/Right_Side.gif?raw=true" width = 20px></picture> Diseño
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
 <br>
 
 ## <picture><img src = "https://github.com/dxuciv/dxuciv/blob/main/Images/Statistics.gif?raw=true" width = 30px></picture> Estadísticas de Github
