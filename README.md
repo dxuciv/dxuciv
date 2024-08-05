@@ -27,7 +27,6 @@
 ### <picture> <img src = "https://github.com/dxuciv/dxuciv/blob/main/Images/Programming_Languages.gif" width = 20px></picture> Lenguajes de programación
 
 ![Batch](https://img.shields.io/badge/Batch%20File-4D4D4D?style=for-the-badge&logo=windows&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C41?style=for-the-badge&logo=assembly&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
