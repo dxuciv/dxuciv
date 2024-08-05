@@ -15,7 +15,7 @@
 
 - 🥇 Tengo `17`, casi `18` años.
 - 🏫 Soy un `estudiante de primer año de carrera`, apasionado por la programación.
-- 🏆 Logré hacer mis primeros `Sistemas Operativos Windows` custom `W10/W11`.
+- 🏆 Logré hacer mis primeros `Sistemas Operativos` custom `W10/W11`.
 - 🧑‍💻 **Actualmente explorando** `Desarrollo Web` **y** `Aprendizaje Automático`.
 - 📧 No dudes en **contactarme**  [![Envíame un correo](https://img.shields.io/static/v1?label=email&amp;message=Xuciv&amp;color=EA4335&amp;style=flat-square)](mailto:santigarram17@icloud.com)
 - 🤓 Transformo ideas en soluciones innovadoras, `"un código a la vez"`.
