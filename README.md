@@ -9,7 +9,7 @@
 </div>
 
 <!--about me-->
-## <picture><img src = "https://github.com/dxuciv/dxuciv/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre mí
+## <picture><img src = "https://github.com/dxuciv/dxuciv/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
 <picture> <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZoa2E3aWNoZ2lnN2QxZWEzYmYwbXN1bmVmZjU3djBub2Fyem5ucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width = 210px></picture>
 
