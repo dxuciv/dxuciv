@@ -13,7 +13,7 @@
 
 <picture> <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZoa2E3aWNoZ2lnN2QxZWEzYmYwbXN1bmVmZjU3djBub2Fyem5ucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width = 210px></picture>
 
-- 🥇  I am `17`, almost `18` years old.
+- 🥇  I am `18`, almost `19` years old.
 - 🏫 I am a `first-year college student`, passionate about programming and technology.
 - 🏆  I successfully created my first custom `Operating Systems` `W10/W11`.
 - 🧑‍💻 **Currently exploring** `Web Development` **and** `Machine Learning`.
